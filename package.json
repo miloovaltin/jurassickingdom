@@ -1,0 +1,16 @@
+{
+"name": "jurassickingdom",
+"theme": "jurassic kingdom",
+"version": "8.8.1",
+"description": "jurassic kingdom สมัครเว็บพนันเว็บตรง คนเล่นเยอะ รับเครดิตฟรี",
+"keywords": [
+"jurassic kingdom",
+"jurassic kingdom เครดิตฟรี",
+"jurassic kingdom ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/jurassickingdom",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
